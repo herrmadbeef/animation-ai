@@ -1,0 +1,1 @@
+create a character sheer of this Mexican player called <player_name> with closeups and full body shots from different angles  in Japanese anime Style

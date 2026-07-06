@@ -1,0 +1,3 @@
+create a character sheer of this HHS player called Gracen Adams #8  with closeups and full body shots from different angles  in Japanese anime Style
+create a character sheer of this HHS player called Tucker Thompson #11  with closeups and full body shots from different angles  in Japanese anime Style
+create a character sheer of this HHS player called LUCA SANCHEZ #7  with closeups and full body shots from different angles  in Japanese anime Style
