@@ -1,0 +1,1 @@
+create a character sheet of this Houston High school player called <Luca Sanchez> with closeups and full body shots from different angles in Japanese anime Style
