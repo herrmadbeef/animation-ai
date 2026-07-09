@@ -1,1 +1,1 @@
-Transform the reference image into a premium cinematic Japanese anime frame while preserving the original composition, pose, camera angle, character placement, body language, framing, perspective, envioronment, location and overall 
+Transform the reference image into a premium cinematic Japanese anime frame while preserving the original composition, pose, camera angle, character placement, body language, framing, perspective, environment, location and overall 
