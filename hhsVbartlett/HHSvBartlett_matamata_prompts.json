@@ -1,0 +1,22 @@
+{
+  "output": "HHSvBartlett_Matamata_H3",
+  "refs": ["Luca.png", "gracen.png"],
+  "style": "Japanese sports anime style, cel shading, bold clean linework, dramatic speed lines, vibrant colors, cinematic floodlit night stadium. <Picture 1> is LUCA SANCHEZ #7 (curly black hair, tan skin, brown eyes), <Picture 2> is GRACEN ADAMS #8 (messy brown hair, captain armband). Use the pictures only for each player's face, hair and build; ignore the character-sheet layout and its text. All HHS players, including Luca, wear the black HHS kit from <Picture 2>: black jersey with white numbers, black shorts, black socks. TUCKER THOMPSON #11 is an HHS striker with wavy brown hair and light skin, no reference picture. Each named player appears at most once per shot; other HHS teammates are generic players with different numbers. Only Gracen #8 wears the captain armband. Bartlett players wear red kits with white trim.",
+  "acts": [
+    {
+      "name": "act1",
+      "seconds": 15,
+      "prompt": "CUT 1: the packed stadium roars under blazing floodlights, the scoreboard reads \"HHS 0 - 0 BARTLETT\". A deep male narrator says in English: \"This is mata-mata. One match, one destiny.\" Gracen #8 controls the ball in the center circle, a scarlet aura flaring around him, and shouts in Japanese: 「行くぞ、ここから仕掛ける！」\nCUT 2: Gracen dribbles through two red Bartlett defenders with speed lines and threads a low pass forward to Tucker #11.\nCUT 3: Tucker #11 explodes toward goal, camera locked on his burning sprint, he yells in Japanese: 「ここで勝負だ！」 His shot beats the keeper but slams into the post, the frame shivering; the crowd gasps as the scoreboard stays 0 - 0."
+    },
+    {
+      "name": "act2",
+      "seconds": 15,
+      "prompt": "CUT 1: Gracen #8 resets the attack from midfield while Tucker #11 stalks the penalty box like a predator. The narrator says in English: \"Every second tightens. The post, the saves, the dreams.\" Gracen says in Japanese, calm and sharp: 「もっと鋭くいくぞ…必ず決める。」\nCUT 2: Gracen sends a spinning cross into the penalty area; the ball hangs in the air in slow motion. Luca #7 bursts into the box as red Bartlett defenders close in like shadows, and whispers in Japanese: 「これが勝利への軌道だ…」\nCUT 3: Luca leaps and glances a header just wide, the goal mouth trembling. The referee blows the whistle for halftime, the scoreboard reads \"HALF TIME 0 - 0\", players bent over breathing hard."
+    },
+    {
+      "name": "act3",
+      "seconds": 15,
+      "prompt": "CUT 1: overtime begins with fire, the scoreboard reads \"OVERTIME 0 - 0\". The narrator says in English: \"Twenty minutes to become legend.\" Gracen #8 dribbles past two red Bartlett defenders, shouts in Japanese: 「この一撃で決める！」 and sends a perfectly timed through ball.\nCUT 2: Luca #7 times his run, bursts onto the ball and unleashes a blazing strike; the ball flies into the glowing net. A stadium announcer screams in English: \"LUCA SANCHEZ NUMBER SEVEN PUTS IT IN THE NET!\" and the crowd erupts. Luca screams in Japanese: 「これが勝利の一撃だ！」\nCUT 3: the final whistle blows, the scoreboard reads \"HHS 1 - 0 BARTLETT\", Gracen and Tucker #11 leap onto Luca and the HHS team collapses together in celebration under the floodlights, confetti and fireworks over the stadium."
+    }
+  ]
+}

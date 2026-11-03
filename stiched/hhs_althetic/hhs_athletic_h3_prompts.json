@@ -1,0 +1,12 @@
+{
+  "output": "HHS_Athletic_Embroidery_H3",
+  "refs": ["../stiched/hhs_logo/Athletic-3.webp"],
+  "style": "Photorealistic extreme macro lens, luxury sports apparel embroidery, premium craftsmanship, satisfying timelapse, ultra-detailed textile rendering, realistic thread physics, cinematic product commercial. <Picture 1> is the Houston High School Mustangs horse-head logo: a black horse head facing right with a flowing black mane, layered medium-gray and light-gray shading on the face and neck, a small white eye, and a thick light-silver outline around the whole shape. Use <Picture 1> only for the logo design; ignore its plain black background. The logo has no text, no shield and no banner.",
+  "acts": [
+    {
+      "name": "embroidery",
+      "seconds": 10,
+      "prompt": "Extreme macro shot of premium woven black cotton shirt fabric filling the frame, completely blank at the start. Silver, light-gray, dark-gray and black embroidery threads slowly emerge from between the fabric fibers and stitch themselves into place automatically, with no hands, needle or sewing machine visible. Threads pull taut and lay down dense satin stitches row by row: first the thick silver outline of the horse head and flowing mane traces itself around the shape, then the black mane sections fill in, then the layered medium-gray and light-gray shading on the face and neck, and finally the small white eye is stitched last. Loose thread segments glide across the fabric under their own power before weaving into place and tightening. Completed areas show raised embroidered texture, thread sheen, subtle shadows and dimensional contouring. Camera completely locked off and steady, one continuous shot, no cuts, no zooms, no pans. Soft natural side lighting highlights the fabric weave, individual cotton fibers and reflective thread surfaces; ultra-shallow depth of field keeps the active stitching zone sharp. The finished embroidered logo matches <Picture 1> exactly in shape, proportions, layout and colors, centered on the fabric, and the shot holds for the last three seconds on the completed raised embroidery. Audio: quiet soft whisper of thread pulling through cotton and gentle tightening ticks, no music, no voices."
+    }
+  ]
+}

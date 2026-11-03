@@ -1,0 +1,12 @@
+{
+  "output": "HHS_Logo_Embroidery_Wan",
+  "style": "Photorealistic extreme macro lens, luxury sports apparel embroidery, satisfying timelapse, hyper-detailed fabric fibers, realistic thread physics, shallow depth of field, cinematic product commercial.",
+  "negative": "unicorn, horn, brown horse, chestnut horse, white mane, embroidery hoop, wooden hoop, needle, hands, fingers, sewing machine, colorful, vivid colors, 色调艳丽，过曝，静态，细节模糊不清，字幕，风格，作品，画作，画面，静止，整体发灰，最差质量，低质量，JPEG压缩残留，丑陋的，残缺的，畸形的，静止不动的画面，杂乱的背景",
+  "acts": [
+    {
+      "name": "embroidery",
+      "seconds": 5,
+      "prompt": "Extreme macro shot of a flat black cotton shirt, fine tightly woven fabric filling the entire frame edge to edge, completely blank at the start with no embroidery on it. Silver, charcoal-gray and black embroidery threads emerge from between the fibers and stitch themselves automatically, floating and pulling taut by themselves. Dense satin stitches lay down row by row, forming a black mustang horse head in profile facing right, without any horn: first a thick light-silver outline, then a flowing jet-black mane swept back to the left, then dark-gray and medium-gray shading on the black face and neck, and finally a small white eye. Monochrome palette only: black, grays, silver and a white eye. The finished embroidery is raised from the fabric with visible thread sheen. Camera completely locked off, one continuous shot, no cuts, no zoom, no pan. Soft neutral side lighting."
+    }
+  ]
+}
