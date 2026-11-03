@@ -1,0 +1,22 @@
+{
+  "output": "HHSvBartlett_Instagram_H3",
+  "refs": ["Luca.png", "Tucker.png", "gracen.png"],
+  "style": "Japanese sports anime style, cel shading, bold clean linework, dramatic speed lines, vibrant colors, cinematic floodlit night stadium. <Picture 1> is LUCA SANCHEZ #7 (curly black hair, tan skin, brown eyes), <Picture 2> is TUCKER THOMPSON #11 (wavy brown hair, light skin), <Picture 3> is GRACEN ADAMS #8 (messy brown hair, captain armband). Use the pictures only for each player's face, hair and build; ignore the character-sheet layout and its text. All HHS players, including Luca and Tucker, wear the black HHS kit from <Picture 3>: black jersey with white numbers, black shorts, black socks. Each of the three appears at most once per shot; other HHS teammates are generic players with different numbers. Only Gracen #8 wears the captain armband. Bartlett players wear white kits with red trim and red numbers.",
+  "acts": [
+    {
+      "name": "act1",
+      "seconds": 15,
+      "prompt": "CUT 1: close-up of a simple glowing orange LED scoreboard at night. Top row: the clock \"05:00\", five minutes left in the match. Bottom row: \"HHS\" on the left (home) with a big \"0\" under it, \"BHS\" on the right (visitor) with a big \"0\" under it; the space between the two zeros is plain black with no text, digits or symbols. No other text on the scoreboard. Then the camera tilts down to the pitch where Bartlett players in white and red press forward under harsh floodlights; low drumbeat, crowd murmur building.\nCUT 2: side view: Luca #7 in the black HHS kit, with no captain armband on either arm, runs toward the Bartlett goal, which is in front of him, plants his foot and strikes the ball forward with full power; the ball flies straight ahead, away from him, toward the goal in front of him, never backward. Slow-motion impact, a shockwave ring bursts around the ball and a blue energy trail streaks forward toward the goal, a referee in a neon green shirt watching in the background.\nCUT 3: view from the front of the goal: the ball flies low and hard toward the far left corner of the goal, well away from the Bartlett goalkeeper in a white and red kit, who stands in the center. The goalkeeper dives full-stretch to his side, arms extended, reaching for the ball, but his gloves miss it by inches; the ball never touches him and rips into the bottom left corner of the netting while he lands empty-handed on the grass; the net ripples in slow motion, then time snaps back to full speed with an explosion of crowd noise."
+    },
+    {
+      "name": "act2",
+      "seconds": 15,
+      "prompt": "CUT 1: Luca #7 in black sprints away from goal with his fist raised to the sky, then drops to his knees and slides across the wet grass, sparks of light spraying behind him; behind him the stands erupt and students pour over the railing.\nCUT 2: wide shot: hundreds of students and HHS teammates in black, numbers 17 and 18 visible, flood onto the floodlit pitch and pile on top of Luca; glittering light particles, joyful screaming, phones held high.\nCUT 3: medium close-up: Tucker #11 in black holds a jersey above his head and screams with joy under a blinding floodlight, lens flare, a crowd of cheering students around him. Tucker shouts in Japanese: 「やったぞ…俺たちの勝利だ！」"
+    },
+    {
+      "name": "act3",
+      "seconds": 15,
+      "prompt": "CUT 1: quiet moment, the crowd noise fades to a gentle piano note: Gracen #8 with the captain armband, in black, embraces a dejected Bartlett player in a white and red kit; soft backlight, slow camera push-in.\nCUT 2: close-up from behind: an HHS player wearing number 16 in black wraps a teammate in a bear hug; the camera rises to reveal the whole team and the student section gathered around the goalmouth, clapping and chanting in unison.\nCUT 3: everything dissolves into darkness; a chrome-silver mustang horse leaps out of the black background in a burst of light and freezes mid-gallop as the team emblem. Final drum hit, then silence."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "refs": ["Luca.png", "Tucker.png", "gracen.png"],
+  "style": "Japanese sports anime style, cel shading, bold clean linework, dramatic speed lines, vibrant colors, cinematic floodlit night stadium. <Picture 1> is LUCA SANCHEZ #7 (curly black hair, tan skin, brown eyes), <Picture 2> is TUCKER THOMPSON #11 (wavy brown hair, light skin), <Picture 3> is GRACEN ADAMS #8 (messy brown hair, captain armband). Use the pictures only for each player's face, hair and build; ignore the character-sheet layout and its text. All HHS players, including Luca and Tucker, wear the black HHS kit from <Picture 3>: black jersey with white numbers, black shorts, black socks. Each of the three appears at most once per shot; other HHS teammates are generic players with different numbers. Only Gracen #8 wears the captain armband. Bartlett players wear red kits with white trim.",
+  "acts": [
+    {
+      "name": "act1",
+      "seconds": 15,
+      "prompt": "CUT 1: sweeping aerial shot of a packed night stadium under blazing floodlights, the scoreboard reads \"HHS 0 - 0 BARTLETT\", the camera dives toward the pitch over a roaring crowd and pounding drums.\nCUT 2: slow pan along the HHS bench; Luca #7 sits with his jaw clenched, eyes locked on the field. A coach's voice calls \"Sanchez!\". Tucker #11, sitting beside him, slaps his shoulder and shouts \"Luca, now!\".\nCUT 3: Luca rises and sprints onto the pitch as a blazing blue aura flares around him; low-angle close-up as he stares down the red Bartlett defense, the crowd noise fading into a deep heartbeat. Luca says in Japanese, low and determined: 「俺に続け…この試合は必ず、俺が変えてみせる。」"
+    },
+    {
+      "name": "act2",
+      "seconds": 15,
+      "prompt": "CUT 1: frantic action montage — the ball clangs off the post, the Bartlett goalkeeper in a dark red goalkeeper kit makes a sharp, clean diving save, HHS players in black pressing hard; Gracen #8 with the captain armband wins the ball in midfield and looks up.\nCUT 2: Gracen whips a curling cross to the edge of the box; Luca #7 controls it, feints, spins and slices past a Bartlett defender as a ghostly roaring tiger silhouette erupts behind him with orange energy streaks. Tucker, wearing #11 (not #7) and no armband, shouts from the side: \"Luca, keep going!\" Luca #7 wears no armband.\nCUT 3: Luca shoots, the red-kitted goalkeeper stretches, the ball skims the crossbar and the crowd screams. Luca shouts in Japanese: 「ここで決める！」 and dribbles toward goal again, trails of energy fireworks behind him."
+    },
+    {
+      "name": "act3",
+      "seconds": 15,
+      "prompt": "CUT 1: close-up of the scoreboard reading \"EXTRA TIME 0 - 0\", then sweat dripping from Luca #7's chin; deep in his own half, Gracen #8 launches a long pass high over the top.\nCUT 2: Luca bursts onto the long ball like a meteor, streaks of light behind him, red Bartlett defenders converging from both sides; time slows as he sees the opening and shouts in Japanese: 「この一撃で、すべてが決まる！」\nCUT 3: Luca unleashes a blazing strike into the top corner, the net bulges, a stadium announcer yells \"Sanchez with the winner!\", the final whistle blows and the stadium erupts; Tucker #11 and Gracen #8 leap onto Luca in celebration.\nFinal shot: low-angle hero shot of Luca #7 alone — curly black hair, tan skin, black jersey with the number 7, no armband — standing tall beneath the floodlights, fist raised, the crowd cheering in the background. It is Luca, not Gracen."
+    }
+  ]
+}
