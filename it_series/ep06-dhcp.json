@@ -1,0 +1,70 @@
+{
+  "series": "IT in 30 Seconds",
+  "episode": 6,
+  "title": "What is DHCP?",
+  "total_duration_sec": 30,
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "fps": 24,
+  "style": "Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+  "characters": {
+    "Bit": "Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel",
+    "Alex": "Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots",
+    "Hana": "Mrs. Hana, a kind elderly innkeeper with silver hair in a bun and a lavender apron"
+  },
+  "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+  "voiceover_full": "Who gives your phone its IP address when you join Wi-Fi? At a hotel, you check in and the front desk hands you a room key. When you check out, that room goes to the next guest. DHCP is the front desk. Your device asks for an address, and DHCP lends one for a set time, called a lease. Now, how do two computers actually start talking? Part 7.",
+  "music": "Soft acoustic piano and strings, gentle whimsical countryside feel, low volume under narration",
+  "shots": [
+    {
+      "shot": 1,
+      "start_sec": 0,
+      "end_sec": 6.55,
+      "duration_sec": 6.55,
+      "prompt": "Setting: the front path of a cozy countryside inn with a wooden porch and no signboard, for the whole shot. Alex walks up the path carrying a suitcase and holding a phone with a soft glowing blank screen, with Bit perched on her shoulder; she stops at the porch steps and looks up at the inn. Both stay on the path. Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Camera: Locked-off static shot on a tripod; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel; Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Who gives your phone its IP address when you join Wi-Fi?",
+      "on_screen_text": "Who gives your phone its address?"
+    },
+    {
+      "shot": 2,
+      "start_sec": 6.55,
+      "end_sec": 13.55,
+      "duration_sec": 7,
+      "prompt": "Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Setting: indoors, the inn's wooden front desk inside a cozy wood-paneled reception room with warm lamplight, for the whole shot; behind the desk is a wooden wall with a row of hooks, and there is no outdoor view. Behind the desk, Mrs. Hana takes a plain brass room key from a wall of hooks and hands it across the desk to Alex with a smile; Alex takes it happily. Both stay at the desk. The front of the desk is plain smooth honey-colored wood with no shadows, stains or dark shapes. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots; Mrs. Hana, a kind elderly innkeeper with silver hair in a bun and a lavender apron. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "At a hotel, you check in and the front desk hands you a room key.",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 3,
+      "start_sec": 13.55,
+      "end_sec": 20.1,
+      "duration_sec": 6.55,
+      "prompt": "Setting: the same wooden front desk of the inn, for the whole shot. Alex places the plain brass key on the desk, waves goodbye and walks out of frame with her suitcase; Mrs. Hana hangs the key on its hook, then hands the same key to a young traveler with a green backpack who steps up to the desk. Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Camera: Locked-off static shot on a tripod; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots; Mrs. Hana, a kind elderly innkeeper with silver hair in a bun and a lavender apron. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "When you check out, that room goes to the next guest.",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 4,
+      "start_sec": 20.1,
+      "end_sec": 30.1,
+      "duration_sec": 10,
+      "prompt": "Setting: the inn's lobby with the wooden front desk, for the whole shot. A short line of travelers holding phones and laptops with soft glowing blank screens waits at the desk; Mrs. Hana hands each traveler a softly glowing plain brass key with a tiny hourglass charm, and each one walks off happily. Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Camera: Locked-off static shot on a tripod; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Mrs. Hana, a kind elderly innkeeper with silver hair in a bun and a lavender apron. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "DHCP is the front desk. Your device asks for an address, and DHCP lends one for a set time, called a lease.",
+      "on_screen_text": "DHCP = lends IP addresses (a lease)"
+    },
+    {
+      "shot": 5,
+      "start_sec": 30.1,
+      "end_sec": 37.1,
+      "duration_sec": 7,
+      "prompt": "Setting: the cozy inn lobby, for the whole shot. Alex and a young traveler with a green backpack wave hello to each other, while Bit sits on a wooden bench beside them, watching happily. Everyone stays in the lobby. Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Camera: Static medium shot on a tripod; the camera never moves and the background stays exactly the same. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel; Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Now, how do two computers actually start talking? Part 7.",
+      "on_screen_text": "Next: TCP handshake"
+    }
+  ]
+}

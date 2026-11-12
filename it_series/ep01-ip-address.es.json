@@ -1,0 +1,70 @@
+{
+  "series": "IT en 30 segundos",
+  "episode": 1,
+  "title": "¿Qué es una dirección IP?",
+  "total_duration_sec": 30,
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "fps": 24,
+  "style": "Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+  "characters": {
+    "Bit": "Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel"
+  },
+  "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+  "voiceover_full": "Todo dispositivo en internet tiene una dirección. Te explico por qué. Para enviar una carta, necesitas una calle, una ciudad y un código postal. Sin dirección, el cartero no sabe adónde ir. Una dirección IP es esa dirección para tu teléfono, tu laptop o un servidor. Los datos la usan para encontrar el dispositivo correcto. ¿Y si solo conoces un nombre? Eso viene después. Sígueme para la parte 2.",
+  "music": "Soft acoustic piano and strings, gentle whimsical countryside feel, low volume under narration",
+  "shots": [
+    {
+      "shot": 1,
+      "start_sec": 0,
+      "end_sec": 3,
+      "duration_sec": 3,
+      "prompt": "Bit stands on a grassy hilltop at sunrise overlooking a sleepy village, holding up a sealed envelope and tilting his head curiously at the viewer. Camera: Slow push-in, eye-level. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition.",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Todo dispositivo en internet tiene una dirección. Te explico por qué.",
+      "on_screen_text": "Cada dispositivo tiene su dirección"
+    },
+    {
+      "shot": 2,
+      "start_sec": 3,
+      "end_sec": 10,
+      "duration_sec": 7,
+      "prompt": "Bit trots down a winding cobblestone lane carrying an envelope, stops at a wooden signpost with many arrows pointing in different directions and scratches his head, confused. Camera: Gentle tracking shot. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition.",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Para enviar una carta, necesitas una calle, una ciudad y un código postal.",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 3,
+      "start_sec": 10,
+      "end_sec": 17,
+      "duration_sec": 7,
+      "prompt": "Close-up of Bit's paws holding an envelope with neat illegible ink handwriting; his eyes light up and he dashes off happily down the lane. Camera: Medium shot, soft pan. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition.",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Sin dirección, el cartero no sabe adónde ir.",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 4,
+      "start_sec": 17,
+      "end_sec": 26,
+      "duration_sec": 9,
+      "prompt": "Wide view of two cozy cottages side by side filling the frame, each with a softly glowing plain brass house plaque, a laptop and a phone visible on windowsills; Bit runs from the bottom left across the grass up to the door of the right cottage, staying inside the frame. Camera: Locked-off static wide shot on a tripod. The camera never pans, tilts, zooms or shakes; the framing and both cottages stay exactly the same from the first frame to the last. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition.",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Una dirección IP es esa dirección para tu teléfono, tu laptop o un servidor. Los datos la usan para encontrar el dispositivo correcto.",
+      "on_screen_text": "DIRECCIÓN IP = 192.168.1.10"
+    },
+    {
+      "shot": 5,
+      "start_sec": 26,
+      "end_sec": 30,
+      "duration_sec": 4,
+      "prompt": "Setting: the front door of a cozy village cottage with a brass mail slot, for the whole shot. Bit slips the envelope through the brass mail slot so his paws are empty, then turns and waves a paw at the viewer, still standing at the door. Camera: Static medium close-up. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition.",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "¿Y si solo conoces un nombre? Eso viene después. Sígueme para la parte 2.",
+      "on_screen_text": "Próximo: DNS"
+    }
+  ],
+  "language": "es",
+  "narrator": "a warm, friendly male narrator speaking neutral Latin American Spanish"
+}
