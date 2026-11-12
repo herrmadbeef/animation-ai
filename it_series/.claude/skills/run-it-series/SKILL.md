@@ -53,6 +53,10 @@ PYTHONIOENCODING=utf-8 $PY -u generar_episodio.py ep02-dns.json --make-character
   `"language"`) go to `output/epNN/<lang>/`.
 - `qa_episodio.py` prints `quiet start Xs / end Ys` per shot (dead air); look at the grid for camera
   moves, morphing houses, location jumps, gibberish lettering, off-model characters.
+- `audio_check.py epNN-x.json [--shots 2,5]` checks narration in the raw shot renders and flags
+  `REPEAT?` (line said twice), `CUT` (speech past the join trim), `LATE` (starts >2 s in) and
+  `NO-TAIL` (last shot ends <0.5 s after the last word). Loudness-based, so the user still listens.
+- Before a multi-shot render, check free RAM: under ~15 GB, H3 slows ~5x and a batch was killed.
 - `--make-character NAME` writes `characters/NAME.png` (~55 s); look at it before rendering.
 - For writing episode JSONs and the full QA/retry loop, use the `it-video-producer` agent
   (`../.claude/agents/it-video-producer.md`).
@@ -82,6 +86,10 @@ Open ComfyUI Desktop, then `$PY generar_episodio.py epNN-x.json` (all shots + jo
   35 s, not 30. Rendered with fewer frames than that, the last frame is held and audio padded.
 - **Frame-difference "jump" detection was tried and dropped**: it flagged every tracking shot and
   missed a real camera pan and a location jump. Visual review of the grid is the check.
+- **H3 audio repeats short lines**: a 6-word line in a 4 s shot was spoken twice. Size the shot to
+  the line and use the agent's "say it once" wording.
+- **Negations invite the thing**: "no birds" drew birds, "no ghost images" drew ghosts, and
+  "on a tripod" drew a tripod. Describe what should be there instead.
 - H3 frames must be 17k+5 (handled by `frame_count`) and width/height multiples of 32.
 
 ## Troubleshooting
@@ -94,3 +102,9 @@ Open ComfyUI Desktop, then `$PY generar_episodio.py epNN-x.json` (all shots + jo
   use a locked-off camera wording (see the agent's rules) and re-render that shot with `--shots N`.
 - **Gibberish words on signs/envelopes**: describe the surface as blank/plain; real text goes in
   `on_screen_text` (drawn afterwards).
+- **See-through giant copy of a character (face in the sky, huge legs in front)**: the character
+  was drawn small; frame them medium/close, "solid and opaque", "the only N people in the scene".
+- **Phone floats or turns its screen to the camera**: a gesture freed her hands; keep the prop in
+  her hands all shot, screen facing her.
+- **City/outdoors visible through an opening door**: say what the room behind it looks like.
+- **Hard cut between shots**: add `"transition_in"` to the later shot (see `join()` docstring).
