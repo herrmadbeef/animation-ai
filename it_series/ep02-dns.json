@@ -1,0 +1,73 @@
+{
+  "series": "IT in 30 Seconds",
+  "episode": 2,
+  "title": "What is DNS?",
+  "total_duration_sec": 30,
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "fps": 24,
+  "style": "Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+  "characters": {
+    "Bit": "Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel",
+    "Alex": "Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots"
+  },
+  "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+  "voiceover_full": "You don't memorize phone numbers anymore. Neither does the internet. You tap 'Mom' in your contacts. Your phone looks up her number and dials it for you. DNS is the internet's contact list. You type a website name, DNS looks up its IP address, and your browser connects. Now we have the address. How do we get there? Follow for part 3.",
+  "music": "Soft acoustic piano and strings, gentle whimsical countryside feel, low volume under narration",
+  "shots": [
+    {
+      "shot": 1,
+      "start_sec": 0,
+      "end_sec": 5,
+      "duration_sec": 5,
+      "prompt": "Setting: the wooden porch of a cozy countryside cottage, for the whole shot. Alex sits on a wooden porch swing, already holding a smartphone in both hands in her lap from the very first frame, looking down at it. The camera sees only the plain dark grey back of the phone for the whole shot; its screen always faces Alex and is never shown. She glances up from the phone at the viewer and gives a small playful smile and head tilt, while Bit sits curled up beside her on the swing. Her hands stay in her lap holding the phone the whole shot; the phone keeps the same position and orientation and never floats, flips, rotates or turns toward the camera. The sky is clear and empty, with no birds, bats, insects or flying objects. Both stay on the swing for the whole shot. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots; Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "You don't memorize phone numbers anymore. Neither does the internet.",
+      "on_screen_text": "Neither does the internet"
+    },
+    {
+      "shot": 2,
+      "start_sec": 5,
+      "end_sec": 8,
+      "duration_sec": 3,
+      "prompt": "Setting: the same cottage porch, for the whole shot. Medium shot of Alex in her yellow raincoat and red rain boots, sitting on the porch swing, smiling, holding a simple dark grey smartphone in one hand at chest height with its screen facing her; with the thumb of that hand she scrolls the screen and then taps it once. The phone is a simple, clearly drawn flat dark rectangle with clean sharp edges. Its blank screen with no writing faces Alex and has a gentle glow that shows only as faint warm light on her face; the air around the phone and her hands is perfectly clear, with no glow halo, mist, blur, smear or warping. Bit sits beside her watching the phone curiously. The sky is clear and empty, with no birds, insects or flying objects. Narration: the narrator speaks one short sentence exactly once, starting in the first second, and never repeats it; after that sentence there is no more speech at all, only soft background music and quiet porch ambience until the end of the shot. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots; Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "You tap 'Mom' in your contacts.",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 3,
+      "start_sec": 8,
+      "end_sec": 13,
+      "duration_sec": 5,
+      "prompt": "Setting: a sunny farmhouse kitchen with bundles of drying herbs hanging from the beams, for the whole shot. A smiling grey-haired older woman in a green apron hears her smartphone chime on the wooden table, picks it up, and holds it to her ear happily; the phone has a soft glowing blank screen. She is the only person in the shot and stays in the kitchen. Camera: Locked-off static shot on a tripod; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Your phone looks up her number and dials it for you.",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 4,
+      "start_sec": 13,
+      "end_sec": 22,
+      "duration_sec": 9,
+      "prompt": "Setting: inside a cozy wooden library with a tall card catalog cabinet of plain unlabeled wooden drawers, for the whole shot. Bit stands on the counter in front of the cabinet; Alex stands at the counter and asks him something; Bit pulls a plain blank card from a drawer, the card glows softly, and he hands it to Alex, who takes it with a smile. Both stay at the counter for the whole shot. Camera: Locked-off static shot on a tripod; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots; Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "DNS is the internet's contact list. You type a website name, DNS looks up its IP address, and your browser connects.",
+      "on_screen_text": "DNS = the internet's contact list",
+      "transition_in": {
+        "video_dissolve_sec": 0.5,
+        "audio_crossfade_sec": 0.1
+      }
+    },
+    {
+      "shot": 5,
+      "start_sec": 22,
+      "end_sec": 29,
+      "duration_sec": 7,
+      "prompt": "Setting: the top of a grassy hill beside a long winding country road leading to the horizon, for the whole shot. Alex stands holding a softly glowing plain blank card and gazes down the road, with Bit sitting on her shoulder; both stay on the hilltop for the whole shot. Camera: Static medium shot from behind and slightly to the side; the camera never moves. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots; Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Now we have the address. How do we get there? Follow for part 3.",
+      "on_screen_text": "Next: Router"
+    }
+  ]
+}

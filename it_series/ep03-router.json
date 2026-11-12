@@ -1,0 +1,70 @@
+{
+  "series": "IT in 30 Seconds",
+  "episode": 3,
+  "title": "What is a router?",
+  "total_duration_sec": 30,
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "fps": 24,
+  "style": "Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+  "characters": {
+    "Bit": "Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel",
+    "Alex": "Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots",
+    "Sam": "Sam, a tall friendly young man with round glasses, messy brown hair and a moss-green sweater"
+  },
+  "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+  "voiceover_full": "How does your data know which way to go? You're heading to a friend's house across town. At each intersection you ask for directions, and someone points you one step closer. Routers are those helpers. Each one reads the destination IP address and sends your data to the next best stop until it arrives. So what's a switch, then? Follow for part 4.",
+  "music": "Soft acoustic piano and strings, gentle whimsical countryside feel, low volume under narration",
+  "shots": [
+    {
+      "shot": 1,
+      "start_sec": 0,
+      "end_sec": 5,
+      "duration_sec": 5,
+      "prompt": "Setting: a fork in a dirt country road between green fields, for the whole shot. Bit stands at the fork holding a plain blank paper map that flaps in the breeze, looks left and right, then tilts his head at the viewer, puzzled; he stays at the fork. Camera: Locked-off static shot on a tripod; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "How does your data know which way to go?",
+      "on_screen_text": "Which way does your data go?"
+    },
+    {
+      "shot": 2,
+      "start_sec": 5,
+      "end_sec": 12.25,
+      "duration_sec": 7.25,
+      "prompt": "Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Setting: a rural crossroads beside a wooden fence, for the whole shot. Close medium shot in warm afternoon sunlight: Alex in her bright yellow raincoat and red rain boots sits on her red bicycle on the right side of the frame, and an old farmer in a straw hat leans on the wooden fence on the left side; together they fill most of the frame, both drawn solid and opaque. Alex has just stopped beside the farmer and asks him something; he smiles and points down the lane with his arm. Both stay where they are. They are the only two people in the scene. Behind them is a sunny green meadow and a row of round trees, with only a thin strip of plain blue sky at the very top; the bottom of the frame is the smooth sandy dirt road under the bicycle wheels. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "You're heading to a friend's house across town. At each intersection you ask for directions,",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 3,
+      "start_sec": 12.25,
+      "end_sec": 16.25,
+      "duration_sec": 4,
+      "prompt": "Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Setting: a quiet village crossroads in front of a bakery with a plain unmarked storefront and no signs, for the whole shot. Alex, large in the frame and wearing her bright yellow raincoat and red rain boots, stands astride her red bicycle while a smiling baker in a white apron in the bakery doorway points down the road; Alex nods, waves thanks and starts pedaling down the road, staying in frame. Alex appears only once, as a full-size person standing in the street in her yellow raincoat for the whole shot; there is no portrait, poster, reflection or second image of her anywhere. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "and someone points you one step closer.",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 4,
+      "start_sec": 16.25,
+      "end_sec": 27.25,
+      "duration_sec": 11,
+      "prompt": "Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Setting: a winding country lane through the hillside town at dusk, lined with wooden signposts with blank wooden arrows and small lanterns, for the whole shot. Bit runs along the lane in the foreground from the left side of the frame to the right side, carrying a plain blank envelope and staying large and clearly visible for the whole shot; as he passes each signpost its lantern lights up warmly and its blank arrow swings to point him onward. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Routers are those helpers. Each one reads the destination IP address and sends your data to the next best stop until it arrives.",
+      "on_screen_text": "ROUTER = picks the next best stop"
+    },
+    {
+      "shot": 5,
+      "start_sec": 27.25,
+      "end_sec": 33.25,
+      "duration_sec": 6,
+      "prompt": "Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Setting: the red wooden front door of a red-roofed cottage, for the whole shot; the door stays the same red color from first frame to last. The cottage is a solid stone and timber building whose walls fill the frame around the door. Bit stands on the doorstep holding a plain blank envelope; the door swings inward, and through the open doorway is the inside of the cottage: a small cozy entry hall with honey-colored wooden walls, a wooden floor with a round rug and warm lamplight. Sam steps into the doorway from the hall, smiles and waves warmly, and Bit hands him the envelope so his paws are empty. Both stay at the door. Camera: Static medium shot; the camera never moves and the background stays exactly the same. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel; Sam, a tall friendly young man with round glasses, messy brown hair and a moss-green sweater. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "So what's a switch, then? Follow for part 4.",
+      "on_screen_text": "Next: Switch"
+    }
+  ]
+}

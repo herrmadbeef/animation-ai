@@ -1,0 +1,68 @@
+{
+  "series": "IT in 30 Seconds",
+  "episode": 5,
+  "title": "What is a port?",
+  "total_duration_sec": 30,
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "fps": 24,
+  "style": "Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+  "characters": {
+    "Bit": "Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel"
+  },
+  "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+  "voiceover_full": "One IP address, dozens of apps. How does data find the right one? An apartment building has one street address but many units. The address gets the mail to the building. The apartment number gets it to the right door. IP address is the building. The port is the apartment. Secure web traffic knocks on 443, email on 25, remote desktop on 3389. Who hands out these addresses? Follow for part 6.",
+  "music": "Soft acoustic piano and strings, gentle whimsical countryside feel, low volume under narration",
+  "shots": [
+    {
+      "shot": 1,
+      "start_sec": 0,
+      "end_sec": 7,
+      "duration_sec": 7,
+      "prompt": "Setting: the front entrance of a tall ivy-covered brick apartment building on a cobbled street, for the whole shot. Bit stands at the entrance with his arms full of plain blank envelopes, looking up at the many windows in wonder; he stays at the entrance. Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Camera: Locked-off static shot on a tripod; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "One IP address, dozens of apps. How does data find the right one?",
+      "on_screen_text": "One address, many doors"
+    },
+    {
+      "shot": 2,
+      "start_sec": 7,
+      "end_sec": 17.0,
+      "duration_sec": 10.0,
+      "prompt": "Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Setting: a warm wooden hallway inside the apartment building, lined with wooden doors that each have a plain smooth brass plaque with no numbers or marks, for the whole shot. The walls are warm honey-colored wood with even lighting and no colored stains. Bit walks a few slow steps down the hallway toward the camera carrying plain blank envelopes, glancing at the doors beside him. The hallway is enclosed, with no windows or openings to the outside, and Bit stays inside it for the whole shot. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "An apartment building has one street address but many units. The address gets the mail to the building.",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 3,
+      "start_sec": 17.0,
+      "end_sec": 22.0,
+      "duration_sec": 5,
+      "prompt": "Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Setting: the same wooden hallway, in front of one wooden door with a plain brass plaque, for the whole shot. Bit slips a plain blank envelope under the door so his paws are empty; the door opens and a smiling baker in a white apron and cap picks up the envelope and waves at Bit. Bit stays at the door. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "The apartment number gets it to the right door.",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 4,
+      "start_sec": 22.0,
+      "end_sec": 33.5,
+      "duration_sec": 11.5,
+      "prompt": "Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Setting: the same wooden hallway, for the whole shot, showing three open wooden doors side by side, each with a plain brass plaque and glowing softly in a different color: amber, blue and green. Through the first door a tiny busy shop, through the second an overflowing mailbox full of plain blank envelopes, through the third a person working at a desk with a soft glowing blank screen. Bit stands in the hallway in front of the doors and points at each door in turn; there is exactly one fox in the whole shot, Bit, appearing only once. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "IP address is the building. The port is the apartment. Secure web traffic knocks on 443, email on 25, remote desktop on 3389.",
+      "on_screen_text": "IP = building | PORT = door   443 web · 25 email · 3389 remote"
+    },
+    {
+      "shot": 5,
+      "start_sec": 33.5,
+      "end_sec": 39.5,
+      "duration_sec": 6,
+      "prompt": "Setting: the flat rooftop of the brick apartment building at sunset, overlooking the town, for the whole shot. Bit sits on the rooftop ledge and waves a paw at the viewer, staying on the rooftop. Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Camera: Static medium shot on a tripod; the camera never moves and the background stays exactly the same. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Who hands out these addresses? Follow for part 6.",
+      "on_screen_text": "Next: DHCP"
+    }
+  ]
+}

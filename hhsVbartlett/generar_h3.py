@@ -65,9 +65,12 @@ def frame_count(seconds):
 
 
 def build_graph(prompt, refs, width, height, length, seed, steps, turbo, prefix, keyframes=None):
+    # FL2VA also does plain text-to-video (the official t2v template): no refs and no keyframes
+    keyframes = keyframes or {}
+    fl2va = bool(keyframes) or not refs
     g = {
         "unet": {"class_type": "UNETLoader", "inputs": {
-            "unet_name": f"minimax_h3_{'fl2va' if keyframes else 'ref2va'}_pruned_int8_convrot.safetensors",
+            "unet_name": f"minimax_h3_{'fl2va' if fl2va else 'ref2va'}_pruned_int8_convrot.safetensors",
             "weight_dtype": "default"}},
         "clip": {"class_type": "CLIPLoader", "inputs": {
             "clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors", "type": "minimax", "device": "default"}},
@@ -93,13 +96,13 @@ def build_graph(prompt, refs, width, height, length, seed, steps, turbo, prefix,
             "video": ["video", 0], "filename_prefix": prefix, "format": "auto", "codec": "auto"}},
     }
     if turbo:
-        lora = ("minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors" if keyframes
+        lora = ("minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors" if fl2va
                 else "minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors")
         g["model"] = {"class_type": "LoraLoaderModelOnly", "inputs": {
             "model": ["unet", 0], "lora_name": lora, "strength_model": 1.0}}
     else:
         g["guider"]["inputs"]["model"] = ["unet", 0]
-    if keyframes:
+    if fl2va:
         # FL2VA: same sampler chain, keyframe conditioning instead of reference images
         g["cond"] = {"class_type": "MiniMaxH3ImageToVideo", "inputs": {
             "clip": ["clip", 0], "vae": ["vae", 0], "prompt": prompt,
@@ -197,7 +200,7 @@ def main():
                     keyframes[key] = upload_padded(args.server, HERE / path, args.width, args.height)
             seed = args.seed if args.seed is not None else random.randrange(2**48)
             # the FL2VA turbo LoRA runs 6 steps in the official template, the Ref2VA one 4
-            steps = 20 if args.no_turbo else (6 if keyframes else 4)
+            steps = 20 if args.no_turbo else (6 if keyframes or not refs else 4)
             print(f"[{act['name']}] {act['seconds']}s, {args.width}x{args.height}, {steps} steps, seed {seed}")
             graph = build_graph(spec["style"] + "\n" + act["prompt"], refs, args.width, args.height,
                                 frame_count(act["seconds"]), seed, steps, not args.no_turbo,
