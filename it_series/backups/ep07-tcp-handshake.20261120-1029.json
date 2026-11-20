@@ -1,0 +1,70 @@
+{
+  "series": "IT in 30 Seconds",
+  "episode": 7,
+  "title": "How the TCP 3-way handshake works",
+  "total_duration_sec": 30,
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "fps": 24,
+  "style": "Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+  "characters": {
+    "Bit": "Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel",
+    "Alex": "Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots",
+    "Sam": "Sam, a tall friendly young man with round glasses, messy brown hair and a moss-green sweater"
+  },
+  "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+  "voiceover_full": "Before two computers talk, they shake hands. Three steps. You walk up: 'Hi, I'm Alex.' They answer: 'Hi Alex, I'm Sam, nice to meet you.' You say: 'Nice to meet you too, Sam.' Now the real conversation starts. That's SYN, SYN-ACK, ACK. Both sides confirm they can hear each other before any real data is sent. But who decides who's allowed to talk at all? Part 8.",
+  "music": "Soft acoustic piano and strings, gentle whimsical countryside feel, low volume under narration",
+  "shots": [
+    {
+      "shot": 1,
+      "start_sec": 0,
+      "end_sec": 5,
+      "duration_sec": 5,
+      "prompt": "Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Setting: a sunny village square with a stone fountain in the middle, for the whole shot. Medium-wide shot: Alex stands on the left side of the small fountain and Sam on the right side, both large in the frame and seen from head to toe; they notice each other across the fountain and smile. Both stay where they are. Alex and Sam each appear only once, and there are no floating faces, hair, boots or ghost images in the sky or on the ground. The sky is clear with soft clouds only; there are no faces, portraits or ghostly images anywhere. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots; Sam, a tall friendly young man with round glasses, messy brown hair and a moss-green sweater. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "Before two computers talk, they shake hands. Three steps.",
+      "on_screen_text": "Computers shake hands. 3 times."
+    },
+    {
+      "shot": 2,
+      "start_sec": 5,
+      "end_sec": 13,
+      "duration_sec": 8,
+      "prompt": "Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Setting: the same village square beside a grey stone fountain, for the whole shot; the fountain keeps exactly the same shape and grey stone color from first frame to last. Alex walks up to Sam and waves, introducing herself; Sam turns, smiles and extends his hand toward her. Camera: Locked-off static shot; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots; Sam, a tall friendly young man with round glasses, messy brown hair and a moss-green sweater. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "You walk up: 'Hi, I'm Alex.' They answer: 'Hi Alex, I'm Sam, nice to meet you.'",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 3,
+      "start_sec": 13,
+      "end_sec": 20,
+      "duration_sec": 7,
+      "prompt": "Setting: a wooden bench beside the stone fountain in the village square, for the whole shot. Alex and Sam shake hands warmly, then sit down together on the bench holding cups of tea and chatting happily. Both stay at the bench. Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. Camera: Locked-off static shot on a tripod; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots; Sam, a tall friendly young man with round glasses, messy brown hair and a moss-green sweater. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "You say: 'Nice to meet you too, Sam.' Now the real conversation starts.",
+      "on_screen_text": ""
+    },
+    {
+      "shot": 4,
+      "start_sec": 20,
+      "end_sec": 29.4,
+      "duration_sec": 9.4,
+      "prompt": "Setting: the wooden bench beside the stone fountain, for the whole shot. Alex and Sam sit on the bench; three softly glowing empty round speech-bubble shapes with nothing inside them appear one after another in the air between them. Bit stands on the rim of the fountain in front of them and counts on his paw, raising one, two, then three claws. Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. There is exactly one fox in the whole shot, Bit, appearing only once. Camera: Locked-off static shot on a tripod; the camera never pans, tilts, zooms or shakes; the framing and buildings stay exactly the same from first frame to last. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel; Alex, a cheerful young woman with short dark bob hair, a yellow raincoat and red rain boots; Sam, a tall friendly young man with round glasses, messy brown hair and a moss-green sweater. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "That's SYN, SYN-ACK, ACK. Both sides confirm they can hear each other before any real data is sent.",
+      "on_screen_text": "SYN → SYN-ACK → ACK"
+    },
+    {
+      "shot": 5,
+      "start_sec": 29.4,
+      "end_sec": 36.4,
+      "duration_sec": 7,
+      "prompt": "Setting: behind the wooden bench in the village square, for the whole shot. Bit peeks out from behind the bench at the viewer with a curious smile, staying behind the bench. Narration: the narrator begins speaking within the first half second and speaks the line exactly once at a steady pace, finishing before the shot ends, with no repeated words. There is exactly one fox in the whole shot, Bit, appearing only once. Camera: Static medium shot on a tripod; the camera never moves and the background stays exactly the same. Characters: Bit, a small original courier fox with cream-and-amber fur, big round green eyes, a blue knitted scarf and a tiny brown leather mail satchel. Style: Hand-painted 2D anime in the style of classic Studio Ghibli films: soft watercolor backgrounds, lush green hillside countryside town, warm golden light, gentle pastel palette, clean hand-drawn character linework, cozy and whimsical mood, subtle film grain, vertical 9:16 composition",
+      "negative_prompt": "text, letters, numbers, words, captions, logos, watermark, photorealistic, 3D render, CGI, distorted hands, extra limbs, Totoro, copyrighted or existing anime characters, dark or scary tone",
+      "voiceover": "But who decides who's allowed to talk at all? Part 8.",
+      "on_screen_text": "Next: Firewall"
+    }
+  ]
+}
